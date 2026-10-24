@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "source": "ChatGPT Work",
+  "agent": "Mia AI Office 3D / Flight Fare Scout",
+  "execution_status": "not_started",
+  "browser_status": "not_checked",
+  "checked_at": null,
+  "fares": [],
+  "daily_lowest": [
+    {
+      "departure_date": "2027-04-01",
+      "fare": null
+    },
+    {
+      "departure_date": "2027-04-02",
+      "fare": null
+    },
+    {
+      "departure_date": "2027-04-03",
+      "fare": null
+    },
+    {
+      "departure_date": "2027-04-04",
+      "fare": null
+    },
+    {
+      "departure_date": "2027-04-05",
+      "fare": null
+    }
+  ],
+  "overall_lowest": null,
+  "sources_checked": [],
+  "coverage": {
+    "airlines_checked": 0,
+    "destinations_checked": 0,
+    "dates_checked": 0
+  },
+  "baseline_comparisons": [],
+  "alerts": [],
+  "incomplete_items": [],
+  "sync_status": "initial_placeholder"
+}

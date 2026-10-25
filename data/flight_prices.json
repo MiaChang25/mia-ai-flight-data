@@ -1,5 +1,6 @@
+
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "source": "ChatGPT Work",
   "agent": "Mia AI Office 3D / Flight Fare Scout",
   "execution_status": "not_started",
@@ -38,5 +39,71 @@
   "baseline_comparisons": [],
   "alerts": [],
   "incomplete_items": [],
-  "sync_status": "manual_sync_test_2026-10-25"
+  "sync_status": "manual_sync_test_2026-10-25",
+  "search_config": {
+    "origin": "TPE",
+    "country": "Japan",
+    "trip_type": "one_way",
+    "cabin": "economy",
+    "adults": 1,
+    "children": 0,
+    "infants": 0,
+    "nonstop_only": true,
+    "currency": "TWD",
+    "departure_dates": [
+      "2027-04-01",
+      "2027-04-02",
+      "2027-04-03",
+      "2027-04-04",
+      "2027-04-05"
+    ],
+    "priority_destinations": [
+      "CTS",
+      "HKD",
+      "FUK",
+      "KMJ",
+      "HSG",
+      "KMI",
+      "OIT",
+      "NGO",
+      "OKJ"
+    ],
+    "excluded_destinations": [
+      "Tokyo",
+      "Osaka",
+      "Okinawa"
+    ]
+  },
+  "public_search": {
+    "status": "not_started",
+    "checked_at": null,
+    "fares": [],
+    "reference_fares": [],
+    "unavailable_items": [],
+    "report_status": "not_available"
+  },
+  "work_approval": {
+    "required": true,
+    "status": "not_requested",
+    "approved_at": null,
+    "approved_scope": null,
+    "single_use_only": true
+  },
+  "work_execution": {
+    "status": "not_started",
+    "started_at": null,
+    "completed_at": null,
+    "verified_fares": []
+  },
+  "price_confidence_levels": [
+    "public_verified",
+    "public_reference",
+    "unavailable",
+    "work_verified"
+  ],
+  "last_report": {
+    "date": null,
+    "public_search_summary": null,
+    "work_recommendation": null
+  }
 }

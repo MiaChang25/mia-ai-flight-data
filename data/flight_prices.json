@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "source": "ChatGPT Work",
   "agent": "Mia AI Office 3D / Flight Fare Scout",
-  "execution_status": "not_started",
+  "execution_status": "sync_test_2026_10_25",
   "browser_status": "not_checked",
   "checked_at": null,
   "fares": [],
